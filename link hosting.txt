@@ -1,0 +1,20 @@
+1. khoa
+-java: https://nhom-r03-khoa-java.herokuapp.com/api/mindistance?latitude=15.217829&longitude=108.885161
+-c#: https://csharpdichothue20220125114432.azurewebsites.net
+2.Hoang
+-java:
+-c#
+3.Huyen
+-java:
+-c#
+
+4.DB
+connectionString: 
+"workstation id=nhom03sqldb.mssql.somee.com;packet size=4096;user id=khoaminhi_SQLLogin_1;pwd=sdr253n3du;data source=nhom03sqldb.mssql.somee.com;persist security info=False;initial catalog=nhom03sqldb;"
+
+5. Deploy:
+khách hàng:
+-login: https://frontend-khachhang-r03.herokuapp.com/web/index.html
+
+shipper: 
+-
